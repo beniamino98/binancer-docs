@@ -1,1 +1,1 @@
-# [binancer documentation](https://beniamino98.github.io/binancer-docs)!  
+# [Documentation binancer](https://beniamino98.github.io/binancer-docs) 
